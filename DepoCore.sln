@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyApp", "PharmacyApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entites", "Entites\Entites.csproj", "{1AD3CB29-0EFD-4180-BB27-723722E93ACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D6AEEFC2-71DD-4F54-8F41-3F039A222BB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1AD3CB29-0EFD-4180-BB27-723722E93ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD3CB29-0EFD-4180-BB27-723722E93ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AD3CB29-0EFD-4180-BB27-723722E93ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AEEFC2-71DD-4F54-8F41-3F039A222BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AEEFC2-71DD-4F54-8F41-3F039A222BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AEEFC2-71DD-4F54-8F41-3F039A222BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AEEFC2-71DD-4F54-8F41-3F039A222BB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

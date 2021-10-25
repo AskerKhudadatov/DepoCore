@@ -1,10 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+
+using Entites.Intefaces;
 
 namespace Entites.Model
 {
-    class Medicine
+    public class Medicine : IEntity
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Dose { get; set; }
+        public string Amount { get; set; }
+
     }
 }
